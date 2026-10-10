@@ -129,5 +129,6 @@ This project prioritizes **Aesthetics & Usability**. It avoids generic templates
 - **Dynamic Interactions**: Micro-animations applied to buttons, modals, and list items using Framer Motion to make the application feel alive and responsive.
 - **Error Resilience**: Graceful error handling UI so the user is never left with a blank screen.
 
----
+--- 
+I have build this for easy share of money 
 
