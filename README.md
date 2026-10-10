@@ -131,6 +131,3 @@ This project prioritizes **Aesthetics & Usability**. It avoids generic templates
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**. Feel free to copy, modify, and use it for your own projects!
